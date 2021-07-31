@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schicoma
 - 👀 I’m interested in learn Mobile and Web Development
-- 🌱 I’m currently learning HTML5 and CSS3
+- 🌱 I’m currently learning Machine Learning things
 - 📫 How to reach me? On Twitter ([@schicomas](https://www.twitter.com/schicomas))
 
 <!---
